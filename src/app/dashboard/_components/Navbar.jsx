@@ -5,7 +5,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div className='p-3 flex justify-between border-b border-b-primary text-primary bg-white text-xl fixed z-50 w-full'>
-        <Link href='/dashboard' className='font-bold'>Food Processing Professionals Dashboard</Link>
+        <Link href='/dashboard' className='font-bold'>Mars Admin Dashboard</Link>
       
         </div>
   )

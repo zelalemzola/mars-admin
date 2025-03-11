@@ -6,8 +6,8 @@ import "@uploadthing/react/styles.css";
 
 
 export const metadata = {
-  title: "Food Processing  Professional's Admin Dashboard",
-  description: "Food Processing  dashboard for Food Processing  professionals",
+  title: "Mars Admin Dashboard",
+  description: "Mars Admin  professionals",
 };
 
 const layout = ({children}) => {
